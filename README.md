@@ -12,7 +12,7 @@
 
 ---
 
-### ✨ Features
+###  Features
 
 - Baseline comparison (Status Code + Content-Length)
 - Clean and colorized terminal output
@@ -22,23 +22,19 @@
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Requirements
 -  Python 3.8+
- ```bash
-  pip install requests
- ```
-### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/algamil7x/403-bypasser.git
 cd 403-bypasser
 ```
 
-## 🧪 Usage
+##  Usage
 ```bash
-python3 main.py https://target.com/admin
+python3 bypasser.py https://target.com/admin
 ``` 
 ---
 ## 📞 Contact
