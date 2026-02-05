@@ -1,0 +1,21 @@
+CF-Connecting-IP: 127.0.0.1
+True-Client-IP: 127.0.0.1
+X-Forwarded-For: 127.0.0.1, 1.1.1.1
+X-Forwarded-Proto: https
+X-Forwarded-SSL: on
+X-Original-Forwarded-For: 127.0.0.1
+Host: localhost
+Host: 127.0.0.1
+Host: admin.localhost
+Origin: null
+Origin: https://localhost
+X-Forwarded-Port: 443
+X-Forwarded-Port: 4443
+X-Forwarded-Port: 80
+X-Forwarded-Port: 8080
+X-Forwarded-Port: 8443
+X-Forwarded-Scheme: http
+X-Forwarded-Scheme: https
+X-Http-Destinationurl: 127.0.0.1
+X-Http-Host-Override: 127.0.0.1
+X-Original-Remote-Addr: 127.0.0.1
