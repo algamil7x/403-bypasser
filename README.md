@@ -25,8 +25,10 @@
 ## 📦 Installation
 
 ### Requirements
-- Go (recent version)
-
+-  Python 3.8+
+ ```bash
+  pip install requests
+ ```
 ### 1️⃣ Clone the repository
 
 ```bash
@@ -36,7 +38,7 @@ cd 403-bypasser
 
 ## 🧪 Usage
 ```bash
-go run main.go https://target.com
+python3 main.py https://target.com/admin
 ``` 
 ---
 ## 📞 Contact
